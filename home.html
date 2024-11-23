@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="home.css">
+</head>
+<body>
+
+    <div class="cont">
+        <h1>KUIZ ROCK KAPAK</h1>
+        <div>
+            <form name="id" onsubmit="submitted(event)">
+            
+                <div class="form-cont">
+                    <label class="label" for="name">INSERT YOUR NAME:</label>
+                    <input class="input" type="text" id="name" placeholder="Your Name" required>
+
+                    <button class="submit-btn" type="submit">Start Quiz</button>
+                </div>
+            
+            </form>
+        </div>
+    </div>
+
+    <script src="userinfo.js"></script>
+    <!-- <script>
+        function submitted(e){
+             
+            e.preventDefault();
+    
+            let namee = document.forms["id"]["name"].value;
+            sessionStorage.setItem("name", namee);
+
+            window.location ='index.html';
+        }
+    </script> -->
+</body>
+</html>

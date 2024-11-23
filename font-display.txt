@@ -1,0 +1,84 @@
+body
+
+	white
+	background: #F6F4F0;
+
+nav
+	background
+	background: #2A2C2E;
+	
+	text-grey
+	background: #FFFFFF99;
+
+	hover-text
+	 background: #F4D867;
+
+	login-button
+		text
+		background: #000000DE;
+		
+		btn-backgroun
+		background: #F4CE47;
+banner
+
+	background
+	background: #F4CE47;
+
+	text-black
+	background: #2A2C2E;
+
+	text-yellow
+	background: #F4BA30;
+
+book-list
+
+	background
+	background: #2A2C2E;
+
+book-menu
+
+	background
+	background: #FFFFFF;
+
+	author
+	background: #00000099;
+
+	book
+	background: #000000DE;
+
+	strike
+	background: #00000061;
+
+footer
+
+	text
+	background: #FFFFFF;
+
+	background-down
+	background: #000000DE;
+
+	
+
+
+	
+
+
+
+	
+	
+
+	
+	
+	
+	
+
+		
+
+
+
+	
+
+
+
+
+
